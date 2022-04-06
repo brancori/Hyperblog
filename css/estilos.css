@@ -1,6 +1,23 @@
 body
 {
-    color: brown;
+    color: #333;
+    text-align: right;
+    font-family: "century gothic";
+    font-size: 16 px;
+    margin: 0;
+    padding: 0;
+}
+#Container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: justify;
+    border: 1px solid #DDDD;
+    margin: 0 auto;
+}
+#Container h1
+{
+    font-size: 20;
     text-align: center;
-    font-family: "Aria";
+
 }
